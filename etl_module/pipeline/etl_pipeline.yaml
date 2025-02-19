@@ -1,0 +1,8 @@
+log_folder_path: "etl_module/logs"
+cities:
+  - "New York"
+  - "Los Angeles"
+  - "Chicago"
+  - "Houston"
+  - "Phoenix"
+run_minutes: 5
